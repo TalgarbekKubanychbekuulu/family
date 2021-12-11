@@ -1,0 +1,18 @@
+header{
+    background-image:url(./fam3.jpg.crdownload) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 500px;
+}
+h2{
+    align-items: center;
+    justify-content: space-between;
+    align-content: center;
+    text-align: center;
+    text-shadow:rgb(228, 165, 165) 3px 3px;
+    padding-top: 30px;
+    padding-right: 90px;
+    color:rgb(155, 79, 79);
+    
+}
